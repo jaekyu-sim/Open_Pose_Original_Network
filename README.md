@@ -61,8 +61,4 @@ Open Pose(Detecting Human Body Skeleton) network using original network.
 ![Heatmap_output3](/readme_image/heatmap_all_peaks.png)
 
 ##### 6. otuput images of my Network!!!! 
-![output1](/readme_image/heatmap_all_peaks.png)
-
-
-![output2](/github_image/output.PNG)
-
+![output1](/readme_image/output.png)
