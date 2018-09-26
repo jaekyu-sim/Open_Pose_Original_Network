@@ -6,8 +6,8 @@ Open Pose(Detecting Human Body Skeleton) network using original network.
 
 #### The Loss of this project is expressed here.
 
-![Heatmap_output1](/github_image/heat_loss.png)
-![Heatmap_output1](/github_image/vector_loss.png)
+![Heatmap_output1](/readme_image/branch1_loss.png)
+![Heatmap_output1](/readme_image/branch2_loss.png)
 
 #### the left is heatmap loss and right is vectormap loss.
 
