@@ -39,36 +39,30 @@ Open Pose(Detecting Human Body Skeleton) network using original network.
 ##### Here is a output of this project. There are vectormap and heatmap images and output of my network.
 
 ##### input images
-![input_image](/github_image/test_image.png)
+![input_image](/readme_image/input_image.png)
 
 ##### 1. Heatmap images
 
 
-![Heatmap_output1](/github_image/test_heatmap1.png)
-![Heatmap_output2](/github_image/test_heatmap2.png)
-![Heatmap_output3](/github_image/test_heatmap3.png)
-![Heatmap_output4](/github_image/test_heatmap4.png)
-![Heatmap_output5](/github_image/test_heatmap5.png)
-![Heatmap_output6](/github_image/test_heatmap6.png)
-![Heatmap_output7](/github_image/test_heatmap7.png)
-![Heatmap_output8](/github_image/test_heatmap8.png)
-![Heatmap_output9](/github_image/test_heatmap9.png)
-![Heatmap_output10](/github_image/test_heatmap10.png)
-![Heatmap_output11](/github_image/test_heatmap.png)
+![Heatmap_output1](/readme_image/heatmap.png)
+
 
 
 ##### 2. Vectormap images
-![Vectormap_output1](/github_image/test_vectormap1.png)
-![Vectormap_output2](/github_image/test_vectormap2.png)
-![Vectormap_output3](/github_image/test_vectormap3.png)
-![Vectormap_output4](/github_image/test_vectormap4.png)
-![Vectormap_output5](/github_image/test_vectormap5.png)
-![Vectormap_output6](/github_image/test_vectormap6.png)
-![Vectormap_output7](/github_image/test_vectormap7.png)
-![Vectormap_output8](/github_image/test_vectormap8.png)
-![Vectormap_output9](/github_image/test_vectormap9.png)
-![Vectormap_output10](/github_image/test_vectormap10.PNG)
+![Heatmap_output2](/readme_image/paf.png)
+
+##### 3. Heatmap of right knee images
+![Vectormap_output1](/readme_image/heatmap_right_knee.png)
+
+##### 4. paf of right arm images
+![Vectormap_output2](/readme_image/paf_right_arm.png)
+
+##### 5. cv2.circle images of non-maxima and 
+![Heatmap_output3](/readme_image/heatmap_all_peaks.png)
+
+##### 6. otuput images of my Network!!!! 
+![output1](/readme_image/heatmap_all_peaks.png)
 
 
-![Vectormap_output11](/github_image/test_vectormap.PNG)
+![output2](/github_image/output.PNG)
 
