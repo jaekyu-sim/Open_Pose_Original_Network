@@ -36,6 +36,10 @@ Open Pose(Detecting Human Body Skeleton) network using original network.
 #### Here is a test example of my network.
 #### there are heatmap, paf, paf map, image with skeleton output.
 
+#### 8. Demo_CAM.ipynb
+#### this ipynb file is using webcam
+
+
 ##### Here is a output of this project. There are vectormap and heatmap images and output of my network.
 
 ##### input images
